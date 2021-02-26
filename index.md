@@ -2,8 +2,8 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Andrew Gertner Belfield
+doctoral candidate at Boston College
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,7 +13,7 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+writing a dissertation on the *Summa halensis* and scholastic christology
 
 ### Specialized in
 
@@ -27,8 +27,8 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017--present`
+__Boston College__
 
 `June 1661 - now`
 __Trinity College, Cambridge__
