@@ -220,12 +220,17 @@ Latin
 
 `modern`
 English (native)
+
 German
+
 French
+
 Spanish
 
 ## academic associations
+
 Catholic Theological Society of America (application submitted; pending review)
+
 `2021–`
 Medieval Academy of America
 
@@ -234,6 +239,7 @@ American Academy of Religion
 
 `2017`
 Theta Alpha Kappa
+
 Alpha Sigma Nu
 
 
