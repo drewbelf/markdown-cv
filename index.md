@@ -29,7 +29,7 @@ trinitarian theology, soteriology, medieval apocalypticism/Joachimism, theology 
 
 __Doctor of Philosophy__, historical & systematic theology (in progress)
 - Boston College
-- Dissertation: "Restoring christology in the Summa fratris Alexandri"
+- Dissertation: "Restoring christology in the *Summa fratris Alexandri*"
 - Director: [Boyd Taylor Coolman](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/boyd-taylor-coolman.html)
 - Readers: [Michael C. Magree, S.J.](https://www.bc.edu/content/bc-web/schools/mcas/departments/theology/people/faculty-directory/michael-magree-sj.html); [Jeremy D. Wilkins](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/jeremy-wilkins.html); [Corey L. Barnes](https://www.oberlin.edu/corey-barnes)
 
