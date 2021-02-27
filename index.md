@@ -168,8 +168,8 @@ __Graduate Assistant__ to Campus Ministry, Loyola University Maryland
 __Resident Assistant__, St. Bonaventure University
 
 
-### Footer
+### last updated
 
-Last updated: February 2021
+February 2021
 
 
