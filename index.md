@@ -6,8 +6,8 @@ title: Isaac Newtons's CV
 doctoral candidate at Boston College
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="belfield@bc.edu">belfield@bc.edu</a>
+| <a href="https://www.bc.edu/content/bc-web/schools/mcas/departments/theology/people/grad-students/andrew-belfield.html">student profile</a>
 </div>
 
 
