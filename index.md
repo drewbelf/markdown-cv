@@ -48,6 +48,8 @@ __Bachelor of Arts__, theology & philosophy
 
 ## teaching
 
+### experience
+
 `2020`
 __Teaching Assistant__ to Andrew Prevot, THEO 1091/PHIL 1091 “Perspectives in Western Culture II,” Boston College
 - Lectured and facilitated discussion on the Reformation, the Counter-reformation, and the “Joint Declaration of the Doctrine of Faith.”
@@ -70,6 +72,8 @@ __Teaching Assistant__ Boyd Taylor Coolman, THEO 1016 & 1017 “Introduction to 
 - Graded midterm and final examinations.
 - Facilitated administration of the course, including especially tracking student attendance and managing the grade book.
 
+### training
+
 `2017–`
 __Apprenticeship in College Teaching__, Center for Teaching Excellence, Boston College (in progress)
 - Attended seminars on course design, assignment design, active learning, creating effective learning environments, grading for learning, inclusive pedagogy, and other topics.
@@ -81,7 +85,6 @@ __Apprenticeship in College Teaching__, Center for Teaching Excellence, Boston C
 
 ### articles & essays
 
-`forthcoming`
 Of Denis Edwards, *Deep Incarnation: God’s Redemptive Suffering with Creatures* (Orbis Books, 2019), in Anglican Theological Review (forthcoming).
 
 `2019`
