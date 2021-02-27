@@ -211,7 +211,7 @@ Presidential Scholarship, St. Bonaventure University
 `2018`
 Research and Scholarship Integrity Program, Morrissey College of Arts & Sciences, Boston College
 
-`2017–``
+`2017–`
 various professional development seminars, Theology Department, Boston College
 
 ## research languages
