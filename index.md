@@ -74,7 +74,7 @@ __Teaching Assistant__ Boyd Taylor Coolman, THEO 1016 & 1017 “Introduction to 
 ### training
 
 `2017–`
-__Apprenticeship in College Teaching__, Center for Teaching Excellence, Boston College (in progress)
+__[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academics/sites/center-for-teaching-excellence/programs-events/graduate-student-programs/Apprenticeship-In-College-Teaching.html)__, [Center for Teaching Excellence](https://www.bc.edu/content/bc-web/academics/sites/center-for-teaching-excellence.html), Boston College (in progress)
 - Attended seminars on course design, assignment design, active learning, creating effective learning environments, grading for learning, inclusive pedagogy, and other topics.
 - Observed faculty instruction and wrote a reflection essay drawing connections between faculty teaching practices and my own.
 - Developed a teaching philosophy articulating my learning goals, teaching methods, and means of assessment.
@@ -87,7 +87,7 @@ __Apprenticeship in College Teaching__, Center for Teaching Excellence, Boston C
 Of Denis Edwards, *Deep Incarnation: God’s Redemptive Suffering with Creatures* (Orbis Books, 2019), in Anglican Theological Review (forthcoming).
 
 `2019`
-“Trinity and Creation: Vestigia Trinitatis in Alexander of Hales’s Glossa Sententiarum.” The Cord 69, no. 1 (2019): 4–8.
+“Trinity and Creation: *Vestigia Trinitatis* in Alexander of Hales’s *Glossa Sententiarum*.” The Cord 69, no. 1 (2019): 4–8.
 
 `2017`
 “The Latest in St. Bonaventure Scholarship: When Emerging and Senior Scholars Meet.” The Cord 67, no. 3 (2017): 20–22.
@@ -98,7 +98,7 @@ Of Denis Edwards, *Deep Incarnation: God’s Redemptive Suffering with Creatures
 ### academic presentations
 
 `upcoming`
-Proposal accepted for “Restoring rectitudo: Anselm of Canterbury, Ecological Sin, and Cosmic Salvation.” The Thomas H. Olbricht Christian Scholars’ Conference. Lipscomb University (hybrid in-person/online due to COVID-19). June 9–11, 2021.
+Proposal accepted for “Restoring *rectitudo*: Anselm of Canterbury, Ecological Sin, and Cosmic Salvation.” The Thomas H. Olbricht Christian Scholars’ Conference. Lipscomb University (hybrid in-person/online due to COVID-19). June 9–11, 2021.
 
 Proposal submitted for “In Community We Live and Die: A Franciscan Account of Death and Dying.” The College Theology Society Annual Convention. June 3–6, 2021.
 
@@ -106,25 +106,25 @@ Proposal submitted for “In Community We Live and Die: A Franciscan Account of 
 “Basic Human Communities: An Alternative to Zoom Worship in the Era of COVID.” Graduate Student Conference on Pandemic & Religion. The Boisi Center for Religion and American Public Life. Boston College (online due to COVID-19). February 27. (Coauthored with Laurel Marshall Potter, Kelly Kossar, and Elli Pripas.)
 
 `2020`
-“Who Is iste homo Jesus? A Halensian Contribution.” Christ among the Disciplines. Online interdisciplinary conference. December 11–13.
+“Who Is *iste homo* Jesus? A Halensian Contribution.” Christ among the Disciplines. Online interdisciplinary conference. December 11–13.
 
 “History in Crisis? How Augustine Reads John’s Apocalypse.” Patristic, Medieval, and Renaissance Conference. Villanova University (online due to COVID-19). October 16–18.
 
-“Christum esse confitemur, ergo Christus est unum: the Early Franciscans and Thomas Aquinas on the Logical and Ontological Unity of Christ.” Thomas Aquinas and the Crisis of Christology. Ave Maria University. February 6–8.
+“*Christum esse confitemur, ergo Christus est unum*: the Early Franciscans and Thomas Aquinas on the Logical and Ontological Unity of Christ.” Thomas Aquinas and the Crisis of Christology. Ave Maria University. February 6–8.
 
 `2019`
 Response to John R. Kern, “Re-membering the Mystical Body: The Expansion of the Gratia Gratis Data in 13th Century Mendicant Theology.” Historical Theology Colloquium. Boston College. September 25.
 
-“cibus proportionalis debet esse cibabili: Alexander of Hales on the Food-Proportionality of the Eucharist.” Quidam enim dicunt: Mendicant Theologies before Aquinas and Bonaventure. St. Bonaventure University. July 15–18.
+“*cibus proportionalis debet esse cibabili*: Alexander of Hales on the Food-Proportionality of the Eucharist.” Quidam enim dicunt: Mendicant Theologies before Aquinas and Bonaventure. St. Bonaventure University. July 15–18.
 
-“Homo assumptus in the Halensian School?” Historical Theology Colloquium. Boston College. May 15.
+“*Homo assumptus* in the Halensian School?” Historical Theology Colloquium. Boston College. May 15.
 
 `2018`
 “On the Fittingness of Filial Incarnation in Two Summae.” The Theology of Thomas Aquinas: Sources, Insights, and Influences. Mundelein Seminary. October 3.
 
-“Exemplarity and Trinitarian Vestiges in Alexander of Hales’ Glossa Sententiarum.” Alexander of Hales and Early Franciscan Masters. Colegio S. Isidoro, Roma. June 9–10.
+“Exemplarity and Trinitarian Vestiges in Alexander of Hales’ *Glossa Sententiarum*.” Alexander of Hales and Early Franciscan Masters. Colegio S. Isidoro, Roma. June 9–10.
 
-“elegit suspendium anima mea et mortem ossa: Job 7:15 in Victorine–Franciscan Mystical Ascents of the Soul.” BC STM Conference on Job in the Middle Ages. Boston College School of Theology and Ministry. April 27.
+“*elegit suspendium anima mea et mortem ossa*: Job 7:15 in Victorine–Franciscan Mystical Ascents of the Soul.” BC STM Conference on Job in the Middle Ages. Boston College School of Theology and Ministry. April 27.
 
 “A Significant Sacrament: St. Bonaventure and Henri de Lubac on the Eucharist.” Historical Theology Colloquium. Boston College. January 16.
 
