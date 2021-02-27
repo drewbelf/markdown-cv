@@ -13,16 +13,11 @@ doctoral candidate in historical & systematic theology at Boston College
 
 ## currently
 
-writing a dissertation on the _Summa fratris Alexandri_ and scholastic christology
+writing a dissertation on the thirteenth-century _Summa fratris Alexandri_, its reception in the medieval period, and the possibilities it presents to christology today
 
-### specialties
+### research interests
 
-historical & systematic theology, medieval theology, mendicant theologies (especially Franciscans), christology
-
-
-### other research interests
-
-trinitarian theology, soteriology, medieval apocalypticism/Joachimism, theology of history, twentieth-century Catholic ressourcement theology, Albert Camus, Thomas Merton
+historical & systematic theology, medieval theology, mendicant theologies (especially Franciscans), christology, trinitarian theology, soteriology, medieval apocalypticism/Joachimism, theology of history, twentieth-century Catholic ressourcement theology, Albert Camus, Thomas Merton
 
 
 ## education
