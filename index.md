@@ -22,7 +22,7 @@ historical & systematic theology, medieval theology, mendicant theologies (espec
 
 ## education
 
-__Doctor of Philosophy__, historical & systematic theology (in progress)
+__Doctor of Philosophy__ | *historical & systematic theology* (in progress)
 - Boston College
 - Dissertation: "Restoring christology in the *Summa fratris Alexandri*"
 - Director: [Boyd Taylor Coolman](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/boyd-taylor-coolman.html)
@@ -34,7 +34,7 @@ __Master of Theological Studies__
 - Loyola University Maryland
 
 `2015`
-__Bachelor of Arts__, theology & philosophy
+__Bachelor of Arts__ | *theology & philosophy*, summa cum laude
 
 - St. Bonaventure University
 
