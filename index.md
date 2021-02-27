@@ -167,6 +167,75 @@ __Graduate Assistant__ to Campus Ministry, Loyola University Maryland
 `2012–15`
 __Resident Assistant__, St. Bonaventure University
 
+## honors, awards, & fellowships
+`2018`
+3rd prize essay contest for “On the Fittingness of Filial Incarnation in Two Summae” at The Theology of Thomas Aquinas: Sources, Insights, and Influences, Mundelein Seminary
+
+Research Grant for study in Rome, Franciscan Institute, St. Bonaventure University
+
+`2017–`
+University Fellowship, Boston College Theology Department
+
+`2017`
+Research Grant for summer study, Franciscan Institute, St. Bonaventure University
+
+Award for Research in Theology, Loyola University Maryland
+
+`2015–17`
+Theological Studies Fellowship, Loyola University Maryland
+
+`2015`
+Ideal Bonaventure Man, St. Bonaventure University
+
+Senior Theology Award, St. Bonaventure University
+
+Sister Mary Anthony Brown Philosophy Award, St. Bonaventure University
+
+Senior Achievement Award, Department of Residence Life, St. Bonaventure University
+
+Daggy Student Scholarship, International Thomas Merton Society
+
+`2014`
+‘High Pass’, philosophy senior thesis defense, St. Bonaventure University
+
+Commitment Award, Department of Residence Life, St. Bonaventure University
+
+`2011–15`
+Honor’s Program, St. Bonaventure University
+
+Dean’s List, St. Bonaventure University
+
+Presidential Scholarship, St. Bonaventure University
+
+## professional development
+`2018`
+Research and Scholarship Integrity Program, Morrissey College of Arts & Sciences, Boston College
+
+`2017–``
+various professional development seminars, Theology Department, Boston College
+
+## research languages
+`ancient`
+Latin
+
+`modern`
+English (native)
+German
+French
+Spanish
+
+## academic associations
+Catholic Theological Society of America (application submitted; pending review)
+`2021–`
+Medieval Academy of America
+
+`2017–`
+American Academy of Religion
+
+`2017`
+Theta Alpha Kappa
+Alpha Sigma Nu
+
 
 ## last updated
 
