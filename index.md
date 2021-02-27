@@ -32,7 +32,7 @@ __Doctor of Philosophy__, Historical & Systematic Theology
 - Boston College
 - Dissertation: "Restoring christology in the Summa fratris Alexandri"
 - Director: [Boyd Taylor Coolman](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/boyd-taylor-coolman.html)
-- Readers: Michael C. Magree, S.J.; Jeremy D. Wilkins; Corey L. Barnes
+- Readers: [Michael C. Magree, S.J.](https://www.bc.edu/content/bc-web/schools/mcas/departments/theology/people/faculty-directory/michael-magree-sj.html); [Jeremy D. Wilkins](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/jeremy-wilkins.html); [Corey L. Barnes](https://www.oberlin.edu/corey-barnes)
 
 `2015–2017`
 __Master of Theological Studies__
