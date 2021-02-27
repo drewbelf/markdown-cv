@@ -13,7 +13,7 @@ doctoral candidate in historical & systematic theology at Boston College
 
 ## currently
 
-writing a dissertation on the *Summa fratris Alexandri* and scholastic christology
+writing a dissertation on the _Summa fratris Alexandri_ and scholastic christology
 
 ### specialties
 
@@ -27,8 +27,8 @@ trinitarian theology, soteriology, medieval apocalypticism/Joachimism, theology 
 
 ## education
 
-`2017–present`
-__Doctor of Philosophy__, historical & systematic theology
+`2017–`
+__Doctor of Philosophy__, historical & systematic theology (in progress)
 - Boston College
 - Dissertation: "Restoring christology in the Summa fratris Alexandri"
 - Director: [Boyd Taylor Coolman](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/boyd-taylor-coolman.html)
@@ -145,27 +145,27 @@ Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Paul
 
 ## service
 `2020–`
-Graduate Assistant to the Theology Department, Boston College
+__Graduate Assistant__ to the Theology Department, Boston College
 
 `2020`
-Subcommittee member, Tenure and Promotion Process, Boston College School of Theology and Ministry
+__Subcommittee member__, Tenure and Promotion Process, Boston College School of Theology and Ministry
 
-Panel member, “Living and Learning in Boston,” Boston College Theology Department Accepted Students’ Day, March 13
+__Panel member__, “Living and Learning in Boston,” Boston College Theology Department Accepted Students’ Day, March 13
 
 `2019–20`
-Co-organizer, Historical Theology Colloquia, Boston College
+__Co-organizer__, Historical Theology Colloquia, Boston College
 
 `2018–20`
-Student Mentor to incoming doctoral students, Boston College
+__Student Mentor__ to incoming doctoral students, Boston College
 
 `2017`
 Updated [online study guide](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11326&itemId=1118869575) for Alister E. McGrath, Christian Theology: An Introduction, 6th ed. (Malden, Mass.: Wiley-Blackwell, 2017)
 
 `2015–17`
-Graduate Assistant to Campus Ministry, Loyola University Maryland
+__Graduate Assistant__ to Campus Ministry, Loyola University Maryland
 
 `2012–15`
-Resident Assistant, St. Bonaventure University
+__Resident Assistant__, St. Bonaventure University
 
 
 ## Occupation
