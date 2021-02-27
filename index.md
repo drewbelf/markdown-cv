@@ -28,7 +28,7 @@ trinitarian theology, soteriology, medieval apocalypticism/Joachimism, theology 
 ## Education
 
 `2017–present`
-__Doctor of Philosophy__, Historical & Systematic Theology
+__Doctor of Philosophy__, historical & systematic theology
 - Boston College
 - Dissertation: "Restoring christology in the Summa fratris Alexandri"
 - Director: [Boyd Taylor Coolman](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/boyd-taylor-coolman.html)
@@ -44,6 +44,31 @@ __Bachelor of Arts__, theology & philosophy
 
 - St. Bonaventure University
 
+
+
+## teaching experience
+
+`2020`
+__Teaching Assistant__ to Andrew Prevot, theo 1091/phil 1091 “Perspectives in Western Culture II,” Boston College
+- Lectured and facilitated discussion on the Reformation, the Counter-reformation, and the “Joint Declaration of the Doctrine of Faith.”
+- Offered constructive criticism on weekly response papers (2–3 pages in length).
+- Conducted weekly office hours to discuss course material with students.
+
+`2019`
+__Teaching Assistant__ to Brian Robinette, theo 1402 “God, Self, and Society,” Boston College
+- Lectured and facilitated discussions on the following topics: (1) chiastic structure in Augustine’s Confessions; (2) Latin American liberation theology; (3) contemporary feminist theology and Julian of Norwich; and (4) modern soteriology in Jürgen Moltmann and Edward Schillebeeckx.
+- Offered constructive criticism on short reading responses, medium-length written reflections, and integration essays.
+- Conducted weekly office hours to discuss course material with students.
+- Graded midterm and final examinations.
+- Facilitated administration of the course, including especially tracking student attendance and managing the grade book.
+
+`2018–19`
+__Teaching Assistant__ Boyd Taylor Coolman, theo 1016 & 1017 “Introduction to Christian Theology I & II,” Boston College
+- Lectured and facilitated discussion on the following topics: (1) justice in the book of Deuteronomy; (2) Anselm of Canterbury and the grammar of divinity; (3) the sacraments of initiation; and (4) avarice and Christian life.
+- Wrote, proctored, and graded pop quizzes on class periods’ assigned readings.
+- Conducted weekly office hours to discuss course material with students.
+- Graded midterm and final examinations.
+- Facilitated administration of the course, including especially tracking student attendance and managing the grade book.
 
 
 ## Awards
