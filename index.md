@@ -59,7 +59,7 @@ __Teaching Assistant__ to [Brian Robinette](https://www.bc.edu/bc-web/schools/mc
 - Facilitated administration of the course, including especially tracking student attendance and managing the grade book.
 
 `2018–19`
-__Teaching Assistant__ Boyd Taylor Coolman, THEO 1016 & 1017 “Introduction to Christian Theology I & II,” Boston College
+__Teaching Assistant__ to Boyd Taylor Coolman, THEO 1016 & 1017 “Introduction to Christian Theology I & II,” Boston College
 - Lectured and facilitated discussion on the following topics: (1) justice in the book of Deuteronomy; (2) Anselm of Canterbury and the grammar of divinity; (3) the sacraments of initiation; and (4) avarice and Christian life.
 - Wrote, proctored, and graded pop quizzes on class periods’ assigned readings.
 - Conducted weekly office hours to discuss course material with students.
