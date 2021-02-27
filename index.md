@@ -17,7 +17,7 @@ writing a dissertation on the _Summa fratris Alexandri_ and scholastic christolo
 
 ### specialties
 
-medieval theology, mendicant theologies (especially Franciscans), christology
+historical & systematic theology, medieval theology, mendicant theologies (especially Franciscans), christology
 
 
 ### other research interests
