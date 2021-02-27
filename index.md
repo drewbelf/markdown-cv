@@ -50,13 +50,13 @@ __Bachelor of Arts__, theology & philosophy
 ### experience
 
 `2020`
-__Teaching Assistant__ to Andrew Prevot, THEO 1091/PHIL 1091 “Perspectives in Western Culture II,” Boston College
+__Teaching Assistant__ to [Andrew Prevot](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/andrew-l-prevot.html), THEO 1091/PHIL 1091 “Perspectives in Western Culture II,” Boston College
 - Lectured and facilitated discussion on the Reformation, the Counter-reformation, and the “Joint Declaration of the Doctrine of Faith.”
 - Offered constructive criticism on weekly response papers (2–3 pages in length).
 - Conducted weekly office hours to discuss course material with students.
 
 `2019`
-__Teaching Assistant__ to Brian Robinette, THEO 1402 “God, Self, and Society,” Boston College
+__Teaching Assistant__ to [Brian Robinette](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/brian-robinette.html), THEO 1402 “God, Self, and Society,” Boston College
 - Lectured and facilitated discussions on the following topics: (1) chiastic structure in Augustine’s *Confessions*; (2) Latin American liberation theology; (3) contemporary feminist theology and Julian of Norwich; and (4) modern soteriology in Jürgen Moltmann and Edward Schillebeeckx.
 - Offered constructive criticism on short reading responses, medium-length written reflections, and integration essays.
 - Conducted weekly office hours to discuss course material with students.
