@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Andrew Gertner Belfield's CV
 ---
 # Andrew Gertner Belfield
 doctoral candidate in historical & systematic theology at Boston College
@@ -46,7 +46,7 @@ __Bachelor of Arts__, theology & philosophy
 
 
 
-## teaching experience
+## teaching
 
 `2020`
 __Teaching Assistant__ to Andrew Prevot, THEO 1091/PHIL 1091 “Perspectives in Western Culture II,” Boston College
@@ -82,7 +82,7 @@ __Apprenticeship in College Teaching__, Center for Teaching Excellence, Boston C
 ### articles & essays
 
 `forthcoming`
-Of Denis Edwards, Deep Incarnation: God’s Redemptive Suffering with Creatures (Orbis Books, 2019), in Anglican Theological Review (forthcoming).
+Of Denis Edwards, *Deep Incarnation: God’s Redemptive Suffering with Creatures* (Orbis Books, 2019), in Anglican Theological Review (forthcoming).
 
 `2019`
 “Trinity and Creation: Vestigia Trinitatis in Alexander of Hales’s Glossa Sententiarum.” The Cord 69, no. 1 (2019): 4–8.
@@ -102,12 +102,69 @@ Proposal submitted for “In Community We Live and Die: A Franciscan Account of 
 
 “Basic Human Communities: An Alternative to Zoom Worship in the Era of covid.” Graduate Student Conference on Pandemic & Religion. The Boisi Center for Religion and American Public Life. Boston College (online due to covid-19). February 27. (Coauthored with Laurel Marshall Potter, Kelly Kossar, and Elli Pripas.)
 
-`20201`
+`2020`
 “Who Is iste homo Jesus? A Halensian Contribution.” Christ among the Disciplines. Online interdisciplinary conference. December 11–13.
 
 “History in Crisis? How Augustine Reads John’s Apocalypse.” Patristic, Medieval, and Renaissance Conference. Villanova University (online due to covid-19). October 16–18.
 
 “Christum esse confitemur, ergo Christus est unum: the Early Franciscans and Thomas Aquinas on the Logical and Ontological Unity of Christ.” Thomas Aquinas and the Crisis of Christology. Ave Maria University. February 6–8.
+
+`2019`
+Response to John R. Kern, “Re-membering the Mystical Body: The Expansion of the Gratia Gratis Data in 13th Century Mendicant Theology.” Historical Theology Colloquium. Boston College. September 25.
+
+“cibus proportionalis debet esse cibabili: Alexander of Hales on the Food-Proportionality of the Eucharist.” Quidam enim dicunt: Mendicant Theologies before Aquinas and Bonaventure. St. Bonaventure University. July 15–18.
+
+“Homo assumptus in the Halensian School?” Historical Theology Colloquium. Boston College. May 15.
+
+`2018`
+“On the Fittingness of Filial Incarnation in Two Summae.” The Theology of Thomas Aquinas: Sources, Insights, and Influences. Mundelein Seminary. October 3.
+
+“Exemplarity and Trinitarian Vestiges in Alexander of Hales’ Glossa Sententiarum.” Alexander of Hales and Early Franciscan Masters. Colegio S. Isidoro, Roma. June 9–10.
+
+“elegit suspendium anima mea et mortem ossa: Job 7:15 in Victorine–Franciscan Mystical Ascents of the Soul.” BC STM Conference on Job in the Middle Ages. Boston College School of Theology and Ministry. April 27.
+
+“A Significant Sacrament: St. Bonaventure and Henri de Lubac on the Eucharist.” Historical Theology Colloquium. Boston College. January 16.
+
+`2017`
+Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Pauline Ecclesiology: A Look at the Commentary on Romans.” Historical Theology Colloquium. Boston College. December 6.
+
+“The Preacher and the Doctor: Merton’s Engagement with the Theme of Mercy in Albert Camus’s The Plague.” Fifteenth General Meeting of the International Thomas Merton Society. St. Bonaventure University. June 15–18.
+
+“On Reading Maximus as a ‘Scotist’.” Emerging Scholars Conference. Loyola University Maryland. April 21.
+
+`2015`
+“Raining on the Absurd: Existence and Solitude in Albert Camus and Thomas Merton.” Honors Program Symposium. St. Bonaventure University. April 18.
+
+### invited presentations
+`2017`
+“On the Prophetic Imagination.” Ignatian Solidarity Network Arrupe Leaders Summit Maryland, March 10–12.
+
+`2016`
+“The Tower of Babel and Modern Technology.” Loyola University Maryland. September 30.
+
+## service
+`2020–`
+Graduate Assistant to the Theology Department, Boston College
+
+`2020`
+Subcommittee member, Tenure and Promotion Process, Boston College School of Theology and Ministry
+
+Panel member, “Living and Learning in Boston,” Boston College Theology Department Accepted Students’ Day, March 13
+
+`2019–20`
+Co-organizer, Historical Theology Colloquia, Boston College
+
+`2018–20`
+Student Mentor to incoming doctoral students, Boston College
+
+`2017`
+Updated [online study guide](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11326&itemId=1118869575) for Alister E. McGrath, Christian Theology: An Introduction, 6th ed. (Malden, Mass.: Wiley-Blackwell, 2017)
+
+`2015–17`
+Graduate Assistant to Campus Ministry, Loyola University Maryland
+
+`2012–15`
+Resident Assistant, St. Bonaventure University
 
 
 ## Occupation
