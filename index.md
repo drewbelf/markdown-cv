@@ -11,34 +11,38 @@ doctoral candidate at Boston College
 </div>
 
 
-## Currently
+## currently
 
-writing a dissertation on the *Summa halensis* and scholastic christology
+writing a dissertation on the *Summa fratris Alexandri* and scholastic christology
 
-### Specialized in
+### specialties
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+medieval theology, mendicant theologies (especially Franciscans), christology
 
 
-### Research interests
+### other research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+trinitarian theology, soteriology, medieval apocalypticism/Joachimism, theology of history, twentieth-century Catholic ressourcement theology, Albert Camus, Thomas Merton
 
 
 ## Education
 
-`2017--present`
-__Boston College__
+`2017–present`
+__Doctor of Philosophy__, Historical & Systematic Theology
+- Boston College
+- Dissertation: "Restoring christology in the Summa fratris Alexandri"
+- Director: Boyd Taylor Coolman
+- Readers: Michael C. Magree, S.J.; Jeremy D. Wilkins; Corey L. Barnes
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2015–2017`
+__Master of Theological Studies__
 
-- Sizar
+- Loyola University Maryland
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2011–2015`
+__Bachelor of Arts__, theology & philosophy
 
-- Fellow
+- St. Bonaventure University
 
 
 
