@@ -57,7 +57,7 @@ __Teaching Assistant__ to Andrew Prevot, THEO 1091/PHIL 1091 “Perspectives in 
 
 `2019`
 __Teaching Assistant__ to Brian Robinette, THEO 1402 “God, Self, and Society,” Boston College
-- Lectured and facilitated discussions on the following topics: (1) chiastic structure in Augustine’s Confessions; (2) Latin American liberation theology; (3) contemporary feminist theology and Julian of Norwich; and (4) modern soteriology in Jürgen Moltmann and Edward Schillebeeckx.
+- Lectured and facilitated discussions on the following topics: (1) chiastic structure in Augustine’s *Confessions*; (2) Latin American liberation theology; (3) contemporary feminist theology and Julian of Norwich; and (4) modern soteriology in Jürgen Moltmann and Edward Schillebeeckx.
 - Offered constructive criticism on short reading responses, medium-length written reflections, and integration essays.
 - Conducted weekly office hours to discuss course material with students.
 - Graded midterm and final examinations.
@@ -84,16 +84,16 @@ __[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academi
 
 ### articles & essays
 
-Of Denis Edwards, *Deep Incarnation: God’s Redemptive Suffering with Creatures* (Orbis Books, 2019), in Anglican Theological Review (forthcoming).
+Of Denis Edwards, *Deep Incarnation: God’s Redemptive Suffering with Creatures* (Orbis Books, 2019), in *Anglican Theological Review* (forthcoming).
 
 `2019`
-“Trinity and Creation: *Vestigia Trinitatis* in Alexander of Hales’s *Glossa Sententiarum*.” The Cord 69, no. 1 (2019): 4–8.
+“Trinity and Creation: *Vestigia Trinitatis* in Alexander of Hales’s *Glossa Sententiarum*.” *The Cord* 69, no. 1 (2019): 4–8.
 
 `2017`
-“The Latest in St. Bonaventure Scholarship: When Emerging and Senior Scholars Meet.” The Cord 67, no. 3 (2017): 20–22.
+“The Latest in St. Bonaventure Scholarship: When Emerging and Senior Scholars Meet.” *The Cord* 67, no. 3 (2017): 20–22.
 
 `2014`
-“Raining on the Absurd: Entering into Solitude with Thomas Merton.” The Reed 16 (2014): 35–45.
+“Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed*d 16 (2014): 35–45.
 
 ### academic presentations
 
@@ -115,7 +115,7 @@ Proposal submitted for “In Community We Live and Die: A Franciscan Account of 
 `2019`
 Response to John R. Kern, “Re-membering the Mystical Body: The Expansion of the Gratia Gratis Data in 13th Century Mendicant Theology.” Historical Theology Colloquium. Boston College. September 25.
 
-“*cibus proportionalis debet esse cibabili*: Alexander of Hales on the Food-Proportionality of the Eucharist.” Quidam enim dicunt: Mendicant Theologies before Aquinas and Bonaventure. St. Bonaventure University. July 15–18.
+“*cibus proportionalis debet esse cibabili*: Alexander of Hales on the Food-Proportionality of the Eucharist.” *Quidam enim dicunt*: Mendicant Theologies before Aquinas and Bonaventure. St. Bonaventure University. July 15–18.
 
 “*Homo assumptus* in the Halensian School?” Historical Theology Colloquium. Boston College. May 15.
 
@@ -211,7 +211,7 @@ Presidential Scholarship, St. Bonaventure University
 
 ## professional development
 `2018`
-Research and Scholarship Integrity Program, Morrissey College of Arts & Sciences, Boston College
+[Research and Scholarship Integrity Program](https://www.bc.edu/bc-web/research/sites/vice-provost-for-research/integrity-and-compliance/research---scholarship-integrity-program.html), Morrissey College of Arts & Sciences, Boston College
 
 `2017–`
 various professional development seminars, Theology Department, Boston College
@@ -231,18 +231,18 @@ Spanish
 
 ## academic associations
 
-Catholic Theological Society of America (application submitted; pending review)
+[Catholic Theological Society of America](https://www.ctsa-online.org/) (application submitted; pending review)
 
 `2021–`
-Medieval Academy of America
+[Medieval Academy of America](https://www.medievalacademy.org/)
 
 `2017–`
-American Academy of Religion
+[American Academy of Religion](https://www.aarweb.org/)
 
 `2017`
-Theta Alpha Kappa
+[Theta Alpha Kappa](https://thetaalphakappa.org/)
 
-Alpha Sigma Nu
+[Alpha Sigma Nu](https://www.alphasigmanu.org/)
 
 
 ## last updated
