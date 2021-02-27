@@ -168,21 +168,8 @@ __Graduate Assistant__ to Campus Ministry, Loyola University Maryland
 __Resident Assistant__, St. Bonaventure University
 
 
-## Occupation
+### Footer
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: February 2021
 
 
