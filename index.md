@@ -27,19 +27,18 @@ trinitarian theology, soteriology, medieval apocalypticism/Joachimism, theology 
 
 ## education
 
-`2017–`
 __Doctor of Philosophy__, historical & systematic theology (in progress)
 - Boston College
 - Dissertation: "Restoring christology in the Summa fratris Alexandri"
 - Director: [Boyd Taylor Coolman](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/boyd-taylor-coolman.html)
 - Readers: [Michael C. Magree, S.J.](https://www.bc.edu/content/bc-web/schools/mcas/departments/theology/people/faculty-directory/michael-magree-sj.html); [Jeremy D. Wilkins](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/jeremy-wilkins.html); [Corey L. Barnes](https://www.oberlin.edu/corey-barnes)
 
-`2015–2017`
+`2017`
 __Master of Theological Studies__
 
 - Loyola University Maryland
 
-`2011–2015`
+`2015`
 __Bachelor of Arts__, theology & philosophy
 
 - St. Bonaventure University
@@ -99,17 +98,17 @@ Of Denis Edwards, *Deep Incarnation: God’s Redemptive Suffering with Creatures
 ### academic presentations
 
 `upcoming`
-Proposal accepted for “Restoring rectitudo: Anselm of Canterbury, Ecological Sin, and Cosmic Salvation.” The Thomas H. Olbricht Christian Scholars’ Conference. Lipscomb University (hybrid in-person/online due to covid-19). June 9–11, 2021.
+Proposal accepted for “Restoring rectitudo: Anselm of Canterbury, Ecological Sin, and Cosmic Salvation.” The Thomas H. Olbricht Christian Scholars’ Conference. Lipscomb University (hybrid in-person/online due to COVID-19). June 9–11, 2021.
 
 Proposal submitted for “In Community We Live and Die: A Franciscan Account of Death and Dying.” The College Theology Society Annual Convention. June 3–6, 2021.
 
 `2021`
-“Basic Human Communities: An Alternative to Zoom Worship in the Era of covid.” Graduate Student Conference on Pandemic & Religion. The Boisi Center for Religion and American Public Life. Boston College (online due to covid-19). February 27. (Coauthored with Laurel Marshall Potter, Kelly Kossar, and Elli Pripas.)
+“Basic Human Communities: An Alternative to Zoom Worship in the Era of COVID.” Graduate Student Conference on Pandemic & Religion. The Boisi Center for Religion and American Public Life. Boston College (online due to COVID-19). February 27. (Coauthored with Laurel Marshall Potter, Kelly Kossar, and Elli Pripas.)
 
 `2020`
 “Who Is iste homo Jesus? A Halensian Contribution.” Christ among the Disciplines. Online interdisciplinary conference. December 11–13.
 
-“History in Crisis? How Augustine Reads John’s Apocalypse.” Patristic, Medieval, and Renaissance Conference. Villanova University (online due to covid-19). October 16–18.
+“History in Crisis? How Augustine Reads John’s Apocalypse.” Patristic, Medieval, and Renaissance Conference. Villanova University (online due to COVID-19). October 16–18.
 
 “Christum esse confitemur, ergo Christus est unum: the Early Franciscans and Thomas Aquinas on the Logical and Ontological Unity of Christ.” Thomas Aquinas and the Crisis of Christology. Ave Maria University. February 6–8.
 
