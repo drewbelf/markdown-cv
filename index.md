@@ -6,8 +6,9 @@ title: Andrew Gertner Belfield's CV
 doctoral candidate in historical & systematic theology at Boston College
 
 <div id="webaddress">
-<a href="belfield@bc.edu">belfield@bc.edu</a>
+<a href="mailto:belfield@bc.edu">belfield@bc.edu</a>
 | <a href="https://www.bc.edu/content/bc-web/schools/mcas/departments/theology/people/grad-students/andrew-belfield.html">student profile</a>
+| 138 Hancock Street, Auburndale, Mass. 02466
 </div>
 
 
