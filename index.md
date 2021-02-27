@@ -31,7 +31,7 @@ trinitarian theology, soteriology, medieval apocalypticism/Joachimism, theology 
 __Doctor of Philosophy__, Historical & Systematic Theology
 - Boston College
 - Dissertation: "Restoring christology in the Summa fratris Alexandri"
-- Director: Boyd Taylor Coolman
+- Director: [Boyd Taylor Coolman](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/boyd-taylor-coolman.html)
 - Readers: Michael C. Magree, S.J.; Jeremy D. Wilkins; Corey L. Barnes
 
 `2015–2017`
