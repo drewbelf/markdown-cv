@@ -141,6 +141,9 @@ Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Paul
 `2016`
 “The Tower of Babel and Modern Technology.” Loyola University Maryland. September 30.
 
+`2015`
+"A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola University Marland. November 19.
+
 ### languages
 `ancient`
 Latin
