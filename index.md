@@ -141,6 +141,16 @@ Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Paul
 `2016`
 “The Tower of Babel and Modern Technology.” Loyola University Maryland. September 30.
 
+### languages
+`ancient`
+Latin
+
+`modern`
+English (native)  
+German  
+French  
+Spanish  
+
 ## service
 `2020–`
 __Graduate Assistant__ to the Theology Department, Boston College
@@ -212,18 +222,6 @@ Presidential Scholarship, St. Bonaventure University
 `2017–`
 various professional development seminars, Theology Department, Boston College
 
-## research languages
-`ancient`
-Latin
-
-`modern`
-English (native)
-
-German
-
-French
-
-Spanish
 
 ## academic associations
 
