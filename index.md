@@ -89,7 +89,7 @@ Of Denis Edwards, *Deep Incarnation: God’s Redemptive Suffering with Creatures
 “The Latest in St. Bonaventure Scholarship: When Emerging and Senior Scholars Meet.” *The Cord* 67, no. 3 (2017): 20–22.
 
 `2014`
-“Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed*d 16 (2014): 35–45.
+“Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed* 16 (2014): 35–45.
 
 ### academic presentations
 
