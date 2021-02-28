@@ -8,7 +8,7 @@ doctoral candidate in historical & systematic theology at Boston College
 <div id="webaddress">
 <a href="mailto:belfield@bc.edu">belfield@bc.edu</a>
 | <a href="https://www.bc.edu/content/bc-web/schools/mcas/departments/theology/people/grad-students/andrew-belfield.html">student profile</a>
-| <a href="www.andrewbelfield.com">personal website</a>
+| <a href="www.andrewbelfield.com/">personal website</a>
 </div>
 
 
