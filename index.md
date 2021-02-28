@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Andrew Gertner Belfield's CV
+title: cv
 ---
 # Andrew Gertner Belfield
 doctoral candidate in historical & systematic theology at Boston College
