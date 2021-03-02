@@ -169,11 +169,17 @@ __Co-organizer__, Historical Theology Colloquia, Boston College
 `2018–20`
 __Student Mentor__ to incoming doctoral students, Boston College
 
+`2017–18`
+__Research Assistant__ to Jeremy D. Wilkins, Boston College
+
 `2017`
 Updated [online study guide](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11326&itemId=1118869575) for Alister E. McGrath, Christian Theology: An Introduction, 6th ed. (Malden, Mass.: Wiley-Blackwell, 2017)
 
 `2015–17`
 __Graduate Assistant__ to Campus Ministry, Loyola University Maryland
+
+`2012–14`
+__Research Assistant__ to Theology Department, St. Bonaventure University
 
 `2012–15`
 __Resident Assistant__, St. Bonaventure University
