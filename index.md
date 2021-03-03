@@ -238,6 +238,7 @@ various professional development seminars, Theology Department, Boston College
 
 `2021–`
 [College Theology Society](http://www.collegetheology.org/)
+
 [Medieval Academy of America](https://www.medievalacademy.org/)
 
 `2017–`
