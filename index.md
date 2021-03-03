@@ -237,6 +237,7 @@ various professional development seminars, Theology Department, Boston College
 [Catholic Theological Society of America](https://www.ctsa-online.org/) (application submitted; pending review)
 
 `2021–`
+[College Theology Society](http://www.collegetheology.org/)
 [Medieval Academy of America](https://www.medievalacademy.org/)
 
 `2017–`
