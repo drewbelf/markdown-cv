@@ -80,6 +80,8 @@ __[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academi
 
 ### articles & essays
 
+Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic Profession in Medieval Paris* (Fordham University Press, 2018), in *Reading Religion* (forthcoming).
+
 Of Denis Edwards, *Deep Incarnation: God’s Redemptive Suffering with Creatures* (Orbis Books, 2019), in *Anglican Theological Review* (forthcoming).
 
 `2019`
