@@ -7,7 +7,7 @@ doctoral candidate in historical & systematic theology at Boston College
 
 <div id="webaddress">
 <a href="mailto:belfield@bc.edu">belfield@bc.edu</a>
-| <a>140 Commonwealth Avenue, Chestnut Hill, Mass., 02456</a>
+| <a href="https://bc.edu/">140 Commonwealth Avenue, Chestnut Hill, Mass., 02467</a>
 | <a href="https://www.bc.edu/content/bc-web/schools/mcas/departments/theology/people/grad-students/andrew-belfield.html">department profile</a>
 | <a href="http://andrewbelfield.com/">personal website</a>
 </div>
