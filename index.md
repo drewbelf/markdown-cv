@@ -77,9 +77,9 @@ __[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academi
 - Developed a teaching philosophy articulating my learning goals, teaching methods, and means of assessment.
 
 
-## research
+## publications
 
-### peer-reviewed article
+### peer-reviewed
 
 `2014`
 “Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed* 16 (2014): 35–45.
@@ -98,7 +98,9 @@ Of Denis Edwards, *Deep Incarnation: God’s Redemptive Suffering with Creatures
 `2017`
 “The Latest in St. Bonaventure Scholarship: When Emerging and Senior Scholars Meet.” *The Cord* 67, no. 3 (2017): 20–22.
 
-### academic presentations
+## presentations
+
+### academic
 
 `upcoming`
 Proposal accepted for “Restoring *rectitudo*: Anselm of Canterbury, Ecological Sin, and Cosmic Salvation.” The Thomas H. Olbricht Christian Scholars’ Conference. Lipscomb University (hybrid in-person/online due to COVID-19). June 9–11, 2021.
@@ -141,7 +143,7 @@ Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Paul
 `2015`
 “Raining on the Absurd: Existence and Solitude in Albert Camus and Thomas Merton.” Honors Program Symposium. St. Bonaventure University. April 18.
 
-### invited presentations
+### invited
 `2017`
 “On the Prophetic Imagination.” Ignatian Solidarity Network Arrupe Leaders Summit Maryland, March 10–12.
 
@@ -150,16 +152,6 @@ Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Paul
 
 `2015`
 "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola University Marland. November 19.
-
-### languages
-`ancient`
-Latin
-
-`modern`
-English (native)  
-German  
-French  
-Spanish  
 
 ## service
 `2020–`
@@ -238,6 +230,15 @@ Presidential Scholarship, St. Bonaventure University
 `2017–`
 various professional development seminars, Theology Department, Boston College
 
+## research languages
+`ancient`
+Latin
+
+`modern`
+English (native)  
+German  
+French  
+Spanish  
 
 ## academic associations
 
