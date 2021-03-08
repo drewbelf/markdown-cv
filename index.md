@@ -46,27 +46,11 @@ __Bachelor of Arts__ | *theology & philosophy*, summa cum laude
 
 ### experience
 
-`2020`
-__Teaching Assistant__ to [Andrew Prevot](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/andrew-l-prevot.html), THEO 1091/PHIL 1091 “Perspectives in Western Culture II,” Boston College
-- Lectured and facilitated discussion on various topics, including the Reformation, the Counter-reformation, and the “Joint Declaration of the Doctrine of Faith.”
-- Offered constructive criticism on weekly response papers (2–3 pages in length).
-- Conducted weekly office hours to discuss course material with students.
-
-`2019`
-__Teaching Assistant__ to [Brian Robinette](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/brian-robinette.html), THEO 1402 “God, Self, and Society,” Boston College
-- Lectured and facilitated discussions on various topics, including: chiastic structure in Augustine’s *Confessions*; Latin American liberation theology; contemporary feminist theology and Julian of Norwich; and modern soteriology in Jürgen Moltmann and Edward Schillebeeckx.
-- Offered constructive criticism on short reading responses, medium-length written reflections, and integration essays.
-- Conducted weekly office hours to discuss course material with students.
-- Graded midterm and final examinations.
-- Facilitated administration of the course, including especially tracking student attendance and managing the grade book.
-
-`2018–19`
-__Teaching Assistant__ to Boyd Taylor Coolman, THEO 1016 & 1017 “Introduction to Christian Theology I & II,” Boston College
-- Lectured and facilitated discussion on various topics, including: justice in the book of Deuteronomy; Anselm of Canterbury and the grammar of divinity; the sacraments of initiation; and avarice and Christian life.
-- Wrote, proctored, and graded pop quizzes on class periods’ assigned readings.
-- Conducted weekly office hours to discuss course material with students.
-- Graded midterm and final examinations.
-- Facilitated administration of the course, including especially tracking student attendance and managing the grade book.
+`2018–20`
+**Teaching Assistant** | Boston College
+- "Perspectives in Western Culture II," with [Andrew Prevot](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/andrew-l-prevot.html)
+- "God, Self, and Society," with [Brian Robinette](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/brian-robinette.html)
+- "Introduction to Christian Theology I & II," with Boyd Taylor Coolman
 
 ### training
 
