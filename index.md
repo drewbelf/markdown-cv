@@ -23,7 +23,7 @@ historical & systematic theology, medieval theology, mendicant theologies (espec
 
 ## education
 
-__Doctor of Philosophy__ | *theology* (in progress)
+__Doctor of Philosophy__, *theology* (in progress)
 - Boston College
 - Specialization: historical & systematic theology
 - Dissertation: "Restoring christology in the *Summa fratris Alexandri*"
@@ -36,7 +36,7 @@ __Master of Theological Studies__
 - Loyola University Maryland
 
 `2015`
-__Bachelor of Arts__ | *theology & philosophy*, summa cum laude
+__Bachelor of Arts__, *theology & philosophy*, summa cum laude
 
 - St. Bonaventure University
 
@@ -47,7 +47,7 @@ __Bachelor of Arts__ | *theology & philosophy*, summa cum laude
 ### experience
 
 `2018–20`
-**Teaching Assistant** | Boston College
+**Teaching Assistant**, Theology Department, Boston College
 - "Perspectives in Western Culture II," with [Andrew Prevot](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/andrew-l-prevot.html)
 - "God, Self, and Society," with [Brian Robinette](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/brian-robinette.html)
 - "Introduction to Christian Theology I & II," with Boyd Taylor Coolman
