@@ -18,7 +18,7 @@ writing a dissertation on the thirteenth-century _Summa fratris Alexandri_, its 
 
 ### research interests
 
-historical & systematic theology, medieval theology, mendicant theologies (especially Franciscans), patristic theology, christology, trinitarian theology, soteriology, medieval apocalypticism/Joachimism, theology of history, twentieth-century Catholic ressourcement theology, Albert Camus, Thomas Merton
+historical & systematic theology, medieval theology, mendicant theologies (especially Franciscans), patristic theology, christology, trinitarian theology, soteriology, medieval apocalypticism/Joachimism, twentieth-century Catholic *ressourcement* theology, Thomas Merton
 
 
 ## education
