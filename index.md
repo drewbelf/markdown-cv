@@ -14,7 +14,7 @@ doctoral candidate in historical & systematic theology at Boston College
 
 ## currently
 
-writing a dissertation on the thirteenth-century _Summa fratris Alexandri_, its reception in the medieval period, and the possibilities it presents to christology today
+writing a dissertation on the thirteenth-century _Summa halensis_, its reception in the medieval period, and the possibilities it presents to christology today
 
 ### research interests
 
@@ -26,9 +26,10 @@ historical & systematic theology, medieval theology, mendicant theologies (espec
 __Doctor of Philosophy__, theology (in progress)
 - Boston College
 - Specialization: historical & systematic theology
-- Dissertation: "Restoring christology in the *Summa fratris Alexandri*"
+- Dissertation: "Restoring christology in the *Summa halensis*"
 - Director: [Boyd Taylor Coolman](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/boyd-taylor-coolman.html)
 - Readers: [Michael C. Magree, S.J.](https://www.bc.edu/content/bc-web/schools/mcas/departments/theology/people/faculty-directory/michael-magree-sj.html); [Jeremy D. Wilkins](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/jeremy-wilkins.html); [Corey L. Barnes](https://www.oberlin.edu/corey-barnes)
+- Comprehensive Exams: medieval theology, patristic theology, systematic theology
 
 `2017`
 __Master of Theological Studies__
@@ -244,6 +245,6 @@ Spanish
 
 ## last updated
 
-March 2021
+April 2021
 
 
