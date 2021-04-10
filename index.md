@@ -3,22 +3,13 @@ layout: cv
 title: cv
 ---
 # Andrew Gertner Belfield
-doctoral candidate in historical & systematic theology at Boston College
+curriculum vitae
 
 <div id="webaddress">
 <a href="mailto:belfield@bc.edu">belfield@bc.edu</a>
 | <a href="https://www.bc.edu/content/bc-web/schools/mcas/departments/theology/people/grad-students/andrew-belfield.html">140 Commonwealth Ave, Chestnut Hill, Mass, 02467</a>
 | <a href="http://andrewbelfield.com/">andrewbelfield.com</a>
 </div>
-
-
-## currently
-
-writing a dissertation on the thirteenth-century _Summa halensis_, its reception in the medieval period, and the possibilities it presents to christology today
-
-### research interests
-
-historical & systematic theology, medieval theology, mendicant theologies (especially Franciscans), patristic theology, christology, trinitarian theology, soteriology, medieval apocalypticism/Joachimism, twentieth-century Catholic *ressourcement* theology, Thomas Merton
 
 
 ## education
@@ -215,6 +206,10 @@ Presidential Scholarship, St. Bonaventure University
 `2017–`
 various professional development seminars, Theology Department, Boston College
 
+## research interests
+
+historical & systematic theology, medieval theology, mendicant theologies (especially Franciscans), patristic theology, christology, trinitarian theology, soteriology, medieval apocalypticism/Joachimism, twentieth-century Catholic *ressourcement* theology, Thomas Merton
+
 ## research languages
 `ancient`
 Latin
@@ -231,7 +226,6 @@ Spanish
 
 `2021–`
 [College Theology Society](http://www.collegetheology.org/)
-
 [Medieval Academy of America](https://www.medievalacademy.org/)
 
 `2017–`
@@ -239,7 +233,6 @@ Spanish
 
 `2017`
 [Theta Alpha Kappa](https://thetaalphakappa.org/)
-
 [Alpha Sigma Nu](https://www.alphasigmanu.org/)
 
 
