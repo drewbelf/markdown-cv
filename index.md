@@ -225,14 +225,14 @@ Spanish
 [Catholic Theological Society of America](https://www.ctsa-online.org/) (application submitted; pending review)
 
 `2021–`
-[College Theology Society](http://www.collegetheology.org/)
+[College Theology Society](http://www.collegetheology.org/)  
 [Medieval Academy of America](https://www.medievalacademy.org/)
 
 `2017–`
 [American Academy of Religion](https://www.aarweb.org/)
 
 `2017`
-[Theta Alpha Kappa](https://thetaalphakappa.org/)
+[Theta Alpha Kappa](https://thetaalphakappa.org/)  
 [Alpha Sigma Nu](https://www.alphasigmanu.org/)
 
 
