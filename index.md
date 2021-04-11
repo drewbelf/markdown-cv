@@ -24,12 +24,10 @@ __Doctor of Philosophy__, theology (in progress)
 
 `2017`
 __Master of Theological Studies__
-
 - Loyola University Maryland
 
 `2015`
 __Bachelor of Arts__, theology & philosophy, summa cum laude
-
 - St. Bonaventure University
 
 
@@ -58,30 +56,29 @@ __[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academi
 ### peer-reviewed
 
 `2014`
-“Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed* 16 (2014): 35–45.
+
+- “Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed* 16 (2014): 35–45.
 
 ### book reviews
 
-Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic Profession in Medieval Paris* (Fordham University Press, 2018), in *Reading Religion* (forthcoming).
-
-Of Denis Edwards, *Deep Incarnation: God’s Redemptive Suffering with Creatures* (Orbis Books, 2019), in *Anglican Theological Review* (forthcoming).
+- Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic Profession in Medieval Paris* (Fordham University Press, 2018), in *Reading Religion* (forthcoming).
+- Of Denis Edwards, *Deep Incarnation: God’s Redemptive Suffering with Creatures* (Orbis Books, 2019), in *Anglican Theological Review* (forthcoming).
 
 ### other essays
 
 `2019`
-“Trinity and Creation: *Vestigia Trinitatis* in Alexander of Hales’s *Glossa Sententiarum*.” *The Cord* 69, no. 1 (2019): 4–8.
+- “Trinity and Creation: *Vestigia Trinitatis* in Alexander of Hales’s *Glossa Sententiarum*.” *The Cord* 69, no. 1 (2019): 4–8.
 
 `2017`
-“The Latest in St. Bonaventure Scholarship: When Emerging and Senior Scholars Meet.” *The Cord* 67, no. 3 (2017): 20–22.
+- “The Latest in St. Bonaventure Scholarship: When Emerging and Senior Scholars Meet.” *The Cord* 67, no. 3 (2017): 20–22.
 
 ## presentations
 
 ### academic
 
 `upcoming`
-Proposal accepted for “Restoring *rectitudo*: Anselm of Canterbury, Ecological Sin, and Cosmic Salvation.” The Thomas H. Olbricht Christian Scholars’ Conference. Lipscomb University (hybrid in-person/online due to COVID-19). June 9–11, 2021.
-
-Proposal accepted for “In Community We Live and Die: A Medieval Franciscan Account of Death and Dying.” The College Theology Society Annual Convention. June 3–6, 2021.
+- Proposal accepted for “Restoring *rectitudo*: Anselm of Canterbury, Ecological Sin, and Cosmic Salvation.” The Thomas H. Olbricht Christian Scholars’ Conference. Lipscomb University (hybrid in-person/online due to COVID-19). June 9–11, 2021.
+- Proposal accepted for “In Community We Live and Die: A Medieval Franciscan Account of Death and Dying.” The College Theology Society Annual Convention. June 3–6, 2021.
 
 `2021`
 “Basic Human Communities: An Alternative to Zoom Worship in the Era of COVID.” Graduate Student Conference on Pandemic & Religion. The Boisi Center for Religion and American Public Life. Boston College ([online due to COVID-19](https://www.bc.edu/content/bc-web/centers/boisi-center/events/archive/spring-2021-events/pandemic-and-religion.html#paper_session_iii_b_religious_institutions_and_practices_)). February 27. (Coauthored with Laurel Marshall Potter, Kelly Kossar, and Elli Pripas.)
