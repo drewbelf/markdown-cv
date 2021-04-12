@@ -56,7 +56,6 @@ __[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academi
 ### peer-reviewed
 
 `2014`
-
 “Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed* 16 (2014): 35–45.
 
 ### book reviews
