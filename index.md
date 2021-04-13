@@ -14,20 +14,20 @@ curriculum vitae
 
 ## education
 
-__Doctor of Philosophy__, theology (in progress)
+__Doctor of Philosophy__, Theology (in progress)
 - Boston College
-- Specialization: historical & systematic theology
+- Specialization: Historical & Systematic Theology
 - Dissertation: "Restoring christology in the *Summa halensis*"
 - Director: [Boyd Taylor Coolman](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/boyd-taylor-coolman.html)
 - Readers: [Michael C. Magree, S.J.](https://www.bc.edu/content/bc-web/schools/mcas/departments/theology/people/faculty-directory/michael-magree-sj.html); [Jeremy D. Wilkins](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/jeremy-wilkins.html); [Corey L. Barnes](https://www.oberlin.edu/corey-barnes)
-- Comprehensive Exams: medieval theology, patristic theology, systematic theology
+- Comprehensive Exams: Medieval Theology, Patristic Theology, Systematic Theology
 
 `2017`
 __Master of Theological Studies__
 - Loyola University Maryland
 
 `2015`
-__Bachelor of Arts__, theology & philosophy, summa cum laude
+__Bachelor of Arts__, Theology & Philosophy, summa cum laude
 - St. Bonaventure University
 
 
