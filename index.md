@@ -81,9 +81,10 @@ Proposal accepted for “Restoring *rectitudo*: Anselm of Canterbury, Ecological
 
 Proposal accepted for “In Community We Live and Die: A Medieval Franciscan Account of Death and Dying.” The College Theology Society Annual Convention. June 3–6, 2021.
 
-Proposal accepted for "Christ's Penitential Human Nature: The *coassumpta* according to the *Summa halensis*." Historical Theology Colloquium. Boston College. April 20, 2021.
 
 `2021`
+"Christ's Penitential Human Nature: The *coassumpta* according to the *Summa halensis*." Historical Theology Colloquium. Boston College. April 20.
+
 “Basic Human Communities: An Alternative to Zoom Worship in the Era of COVID.” Graduate Student Conference on Pandemic & Religion. The Boisi Center for Religion and American Public Life. Boston College ([online due to COVID-19](https://www.bc.edu/content/bc-web/centers/boisi-center/events/archive/spring-2021-events/pandemic-and-religion.html#paper_session_iii_b_religious_institutions_and_practices_)). February 27. (Coauthored with Laurel Marshall Potter, Kelly Kossar, and Elli Pripas.)
 
 `2020`
