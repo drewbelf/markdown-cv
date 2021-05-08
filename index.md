@@ -77,8 +77,6 @@ Of Denis Edwards, *Deep Incarnation: God’s Redemptive Suffering with Creatures
 ### academic
 
 `upcoming`
-Proposal accepted for “Restoring *rectitudo*: Anselm of Canterbury, Ecological Sin, and Cosmic Salvation.” The Thomas H. Olbricht Christian Scholars’ Conference. Lipscomb University (hybrid in-person/online due to COVID-19). June 9–11, 2021.
-
 Proposal accepted for “In Community We Live and Die: A Medieval Franciscan Account of Death and Dying.” The College Theology Society Annual Convention. June 3–6, 2021.
 
 
