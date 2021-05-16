@@ -76,10 +76,6 @@ Of Denis Edwards, *Deep Incarnation: God’s Redemptive Suffering with Creatures
 
 ### academic
 
-`upcoming`
-Proposal accepted for “In Community We Live and Die: A Medieval Franciscan Account of Death and Dying.” The College Theology Society Annual Convention. June 3–6, 2021.
-
-
 `2021`
 "Christ's Penitential Human Nature: The *coassumpta* according to the *Summa halensis*." Historical Theology Colloquium. Boston College. April 20.
 
@@ -221,9 +217,8 @@ Spanish
 
 ## academic associations
 
-[Catholic Theological Society of America](https://www.ctsa-online.org/) (application submitted; pending review)
-
 `2021–`
+[Catholic Theological Society of America](https://www.ctsa-online.org/), Associate Member
 [College Theology Society](http://www.collegetheology.org/)  
 [Medieval Academy of America](https://www.medievalacademy.org/)
 
