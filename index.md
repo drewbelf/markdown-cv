@@ -218,7 +218,7 @@ Spanish
 ## academic associations
 
 `2021–`
-[Catholic Theological Society of America](https://www.ctsa-online.org/), Associate Member
+[Catholic Theological Society of America](https://www.ctsa-online.org/), Associate Member  
 [College Theology Society](http://www.collegetheology.org/)  
 [Medieval Academy of America](https://www.medievalacademy.org/)
 
