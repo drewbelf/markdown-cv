@@ -58,6 +58,10 @@ __[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academi
 `2014`
 “Raining on the Absurd: Entering into Solitude with Thomas Merton.” *The Reed* 16 (2014): 35–45.
 
+### translations
+
+Alexander of Hales' *Glossa in quatuor libros Sententiarum Petri Lombardi*, Book III, dist.1–22, for Dallas Medieval Texts and Translations (Peeters Publishers).
+
 ### book reviews
 
 Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic Profession in Medieval Paris* (Fordham University Press, 2018), in *Reading Religion* (forthcoming).
@@ -232,6 +236,4 @@ Spanish
 
 ## last updated
 
-April 2021
-
-
+May 2021
