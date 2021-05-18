@@ -60,7 +60,7 @@ __[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academi
 
 ### translations
 
-Alexander of Hales' *Glossa in quatuor libros Sententiarum Petri Lombardi*, Book III, dist.1–22, for Dallas Medieval Texts and Translations (Peeters Publishers).
+Alexander of Hales' *Glossa in quatuor libros Sententiarum Petri Lombardi*, Book III, dist.1–22, for Dallas Medieval Texts and Translations (Peeters Publishers), in progress.
 
 ### book reviews
 
