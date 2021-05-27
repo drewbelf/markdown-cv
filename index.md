@@ -152,9 +152,6 @@ Updated [online study guide](https://bcs.wiley.com/he-bcs/Books?action=index&bcs
 `2015–17`
 __Graduate Assistant__ to Campus Ministry, Loyola University Maryland
 
-`2012–14`
-__Research Assistant__ to Theology Department, St. Bonaventure University
-
 `2012–15`
 __Resident Assistant__, St. Bonaventure University
 
