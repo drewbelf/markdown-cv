@@ -129,7 +129,7 @@ Response to John R. Kern, “Dionysian Hierarchy in Thomas Aquinas’s Late Paul
 "A Tree Imitates God by Being a Tree." Evensong Reflection. Loyola University Marland. November 19.
 
 ## service
-`2020–`
+`2020–21`
 __Graduate Assistant__ to the Theology Department, Boston College
 
 `2020`
