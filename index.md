@@ -36,6 +36,11 @@ __Bachelor of Arts__, Theology & Philosophy, summa cum laude
 
 ### experience
 
+`2021–`
+**Assistant Professor**, Department of Theology and Franciscan Studies, St. Bonaventure University
+- THFS-101 The Way of Francis and Clare
+- THFS-235 Catholic Theology
+
 `2018–20`
 **Teaching Assistant**, Theology Department, Boston College
 - "Perspectives in Western Culture II," with [Andrew Prevot](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/andrew-l-prevot.html)
@@ -195,7 +200,7 @@ Presidential Scholarship, St. Bonaventure University
 `2018`
 [Research and Scholarship Integrity Program](https://www.bc.edu/bc-web/research/sites/vice-provost-for-research/integrity-and-compliance/research---scholarship-integrity-program.html), Morrissey College of Arts & Sciences, Boston College
 
-`2017–`
+`2017–21`
 various professional development seminars, Theology Department, Boston College
 
 ## research interests
@@ -229,4 +234,4 @@ Spanish
 
 ## last updated
 
-May 2021
+June 2021
