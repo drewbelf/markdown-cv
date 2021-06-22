@@ -42,9 +42,10 @@ __Bachelor of Arts__, Theology & Philosophy, summa cum laude
 
 `2018–20`
 **Teaching Assistant**, Theology Department, Boston College
+- THEO-1016/1017 "Introduction to Christian Theology I & II," with Boyd Taylor Coolman
 - THEO-1019/PHIL-1019 "Perspectives in Western Culture II," with [Andrew Prevot](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/andrew-l-prevot.html)
 - THEO-1402 "God, Self, and Society," with [Brian Robinette](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/brian-robinette.html)
-- THEO-1016/1017 "Introduction to Christian Theology I & II," with Boyd Taylor Coolman
+
 
 ### training
 
