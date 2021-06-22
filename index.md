@@ -17,10 +17,9 @@ curriculum vitae
 __Doctor of Philosophy__, Theology (in progress)
 - Boston College
 - Specialization: Historical & Systematic Theology
-- Dissertation: "Restoring christology in the *Summa halensis*"
+- Dissertation: "Systematic christology in the *Summa halensis*"
 - Director: [Boyd Taylor Coolman](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/boyd-taylor-coolman.html)
 - Readers: [Michael C. Magree, S.J.](https://www.bc.edu/content/bc-web/schools/mcas/departments/theology/people/faculty-directory/michael-magree-sj.html); [Jeremy D. Wilkins](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/jeremy-wilkins.html); [Corey L. Barnes](https://www.oberlin.edu/corey-barnes)
-- Comprehensive Exams: Medieval Theology, Patristic Theology, Systematic Theology
 
 `2017`
 __Master of Theological Studies__
@@ -38,14 +37,14 @@ __Bachelor of Arts__, Theology & Philosophy, summa cum laude
 
 `2021–`
 **Assistant Professor**, Department of Theology and Franciscan Studies, St. Bonaventure University
-- THFS-101 The Way of Francis and Clare
-- THFS-235 Catholic Theology
+- THFS-101 "The Way of Francis and Clare"
+- THFS-235 "Catholic Theology"
 
 `2018–20`
 **Teaching Assistant**, Theology Department, Boston College
-- "Perspectives in Western Culture II," with [Andrew Prevot](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/andrew-l-prevot.html)
-- "God, Self, and Society," with [Brian Robinette](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/brian-robinette.html)
-- "Introduction to Christian Theology I & II," with Boyd Taylor Coolman
+- THEO-1019/PHIL-1019 "Perspectives in Western Culture II," with [Andrew Prevot](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/andrew-l-prevot.html)
+- THEO-1402 "God, Self, and Society," with [Brian Robinette](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/brian-robinette.html)
+- THEO-1016/1017 "Introduction to Christian Theology I & II," with Boyd Taylor Coolman
 
 ### training
 
@@ -220,7 +219,7 @@ Spanish
 ## academic associations
 
 `2021–`
-[Catholic Theological Society of America](https://www.ctsa-online.org/), Associate Member  
+[Catholic Theological Society of America](https://www.ctsa-online.org/) (Associate Member)  
 [College Theology Society](http://www.collegetheology.org/)  
 [Medieval Academy of America](https://www.medievalacademy.org/)
 
