@@ -17,7 +17,7 @@ curriculum vitae
 __Doctor of Philosophy__, Theology (in progress)
 - Boston College
 - Specialization: Historical & Systematic Theology
-- Dissertation: "Systematic christology in the *Summa halensis*"
+- Dissertation: "Foundations of scholastic christology in the *Summa halensis*"
 - Director: [Boyd Taylor Coolman](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/boyd-taylor-coolman.html)
 - Readers: [Michael C. Magree, S.J.](https://www.bc.edu/content/bc-web/schools/mcas/departments/theology/people/faculty-directory/michael-magree-sj.html); [Jeremy D. Wilkins](https://www.bc.edu/bc-web/schools/mcas/departments/theology/people/faculty-directory/jeremy-wilkins.html); [Corey L. Barnes](https://www.oberlin.edu/corey-barnes)
 
