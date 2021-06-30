@@ -7,7 +7,7 @@ curriculum vitae
 
 <div id="webaddress">
 <a href="mailto:belfield@bc.edu">belfield@bc.edu</a>
-| <a href="https://www.bc.edu/content/bc-web/schools/mcas/departments/theology/people/grad-students/andrew-belfield.html">140 Commonwealth Avenue, Chestnut Hill, Mass. 02467</a>
+| <a href="https://www.bc.edu/content/bc-web/schools/mcas/departments/theology/people/grad-students/andrew-belfield.html">140 Commonwealth Ave, Chestnut Hill, MA 02467</a>
 | <a href="http://andrewbelfield.com/">andrewbelfield.com</a>
 </div>
 
