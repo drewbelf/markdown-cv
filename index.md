@@ -7,7 +7,7 @@ curriculum vitae
 
 <div id="webaddress">
 <a href="mailto:belfield@bc.edu">belfield@bc.edu</a>
-| <a href="https://www.sbu.edu/academics/theology-and-franciscan-studies">3261 West State Road, St. Bonaventure, N.Y. 14778</a>
+| <a href="https://www.bc.edu/content/bc-web/schools/mcas/departments/theology/people/grad-students/andrew-belfield.html">140 Commonwealth Avenue, Chestnut Hill, Mass. 02467</a>
 | <a href="http://andrewbelfield.com/">andrewbelfield.com</a>
 </div>
 
@@ -34,11 +34,6 @@ __Bachelor of Arts__, Theology & Philosophy, summa cum laude
 ## teaching
 
 ### experience
-
-`2021–`
-**Assistant Professor**, Department of Theology and Franciscan Studies, St. Bonaventure University (to begin fall 2021)
-- THFS-101 "The Way of Francis and Clare"
-- THFS-235 "Catholic Theology"
 
 `2018–20`
 **Teaching Assistant**, Theology Department, Boston College
