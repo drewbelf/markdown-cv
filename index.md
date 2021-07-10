@@ -60,7 +60,7 @@ __[Apprenticeship in College Teaching](https://www.bc.edu/content/bc-web/academi
 
 ### book reviews
 
-Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic Profession in Medieval Paris* (Fordham University Press, 2018), in [*Reading Religion* (forthcoming)](https://readingreligion.org/books/ecstasy-classroom).
+Of Ayelet Even-Ezra, *Ecstasy in the Classroom: Trance, Self, and the Academic Profession in Medieval Paris* (Fordham University Press, 2018), in [*Reading Religion* (2021)](https://readingreligion.org/books/ecstasy-classroom).
 
 Of Denis Edwards, *Deep Incarnation: God’s Redemptive Suffering with Creatures* (Orbis Books, 2019), in *Anglican Theological Review* (forthcoming).
 
